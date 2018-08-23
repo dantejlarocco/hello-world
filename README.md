@@ -2,4 +2,4 @@
 
 This is my ReadMe file. 
 
-Nothing here yet.
+I am a student at Dartmouth College looking to major in Computer Science.
